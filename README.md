@@ -1,8 +1,8 @@
 # SWIM2
 
-_The SWIM² framework has been developed by Marit G. A. Hendrickx (KU Leuven), under guidance of Jan Diels, Jan Vanderborght and Pieter Janssens, and in collaboration with Eric Laloy, Sander Bombeke, Evi Matthyssen and Anne Waverijn.
+_The SWIM² framework has been developed by Marit G. A. Hendrickx (KU Leuven), under guidance of Jan Diels, Jan Vanderborght and Pieter Janssens, and in collaboration with Eric Laloy, Sander Bombeke, Evi Matthyssen and Anne Waverijn._
 
-Reference: Hendrickx, M. G. A., Vanderborght, J., Janssens, P., Laloy, E., Bombeke, S., Matthyssen, E., et al. (2026). Field‐scale soil moisture predictions in real time using in situ sensor measurements in an inverse modeling framework: SWIM2. Water
+_Reference: Hendrickx, M. G. A., Vanderborght, J., Janssens, P., Laloy, E., Bombeke, S., Matthyssen, E., et al. (2026). Field‐scale soil moisture predictions in real time using in situ sensor measurements in an inverse modeling framework: SWIM2. Water
 Resources Research, 62, e2025WR041324. https://doi.org/10.1029/2025WR041324_
 
 All scripts should be in the same directory. The data folders should also be in this directory. If this is not the case, mind that you adjust the paths.
